@@ -1,42 +1,50 @@
 <div align="center">
 
-# Hi, I’m Ehasan Alam Chowdhury 👋
+# Hi, I'm Ehasan Alam Chowdhury 👋
 
-### PCB Design · AutoCAD · Engineering Documentation
+### PCB Design · AutoCAD Electrical · Engineering Documentation
 
-Turning design ideas into clear, organized engineering projects.
+From circuit schematics and board layouts to control-panel drawings.
 
-[Explore my repositories](https://github.com/ehasunchy?tab=repositories)
+[Altium Projects](https://github.com/ehasunchy/altium-pcb-projects) · [KiCad Projects](https://github.com/ehasunchy/kicad-pcb-projects) · [AutoCAD Project](https://github.com/ehasunchy/autocad-wtp-control-panel)
 
 </div>
 
 ---
 
-## About this portfolio
+## About my work
 
-I’m building a portfolio focused on PCB design, AutoCAD drawings, and practical engineering projects. This space will bring together design files, visual previews, and documentation that explain the purpose and development of each project.
+This portfolio brings together my PCB design and electrical drafting projects using Altium Designer, KiCad, and AutoCAD Electrical. It includes editable source files, design previews, and project documentation covering both individual circuits and control-panel practice drawings.
 
-## Portfolio focus
+## Featured collections
 
-| Area | What to expect |
+| Collection | Projects and deliverables |
 | :--- | :--- |
-| **PCB design** | Schematics, board layouts, component lists, and fabrication files where available |
-| **AutoCAD** | Technical drawings, dimensioned layouts, and PDF previews |
-| **Engineering projects** | Design objectives, source files, development notes, and results |
+| [**Altium PCB Projects**](https://github.com/ehasunchy/altium-pcb-projects) | Four designs: 5V LED indicator, 5V-to-3.3V LDO, tutorial LED board, and USB-C charger/boost converter. Sources, local libraries, and available manufacturing outputs. |
+| [**KiCad PCB Projects**](https://github.com/ehasunchy/kicad-pcb-projects) | Two practice designs: LED indicator and AMS1117-3.3 regulator. Editable projects, schematic/board previews, and supplied Gerber/drill exports. |
+| [**AutoCAD WTP Control Panel**](https://github.com/ehasunchy/autocad-wtp-control-panel) | Practice drawings for system architecture, incoming power distribution, and CPU digital-output/relay wiring, with supporting symbols. |
 
-## Project showcase
+## Design previews
 
-Project uploads are being prepared. PCB and AutoCAD projects will be linked here as their files and documentation are added.
+<table>
+<tr>
+<td align="center" width="50%"><strong>USB-C Charger / Boost PCB</strong><br><a href="https://github.com/ehasunchy/altium-pcb-projects/blob/main/USBC_Charger.md"><img src="https://raw.githubusercontent.com/ehasunchy/altium-pcb-projects/main/USBC_Charger-board.png" alt="USB-C Gerber layer preview" width="420"></a></td>
+<td align="center" width="50%"><strong>KiCad 3.3V Regulator PCB</strong><br><a href="https://github.com/ehasunchy/kicad-pcb-projects/blob/main/KiCad_Job_Practice_02.md"><img src="https://raw.githubusercontent.com/ehasunchy/kicad-pcb-projects/main/KiCad_Job_Practice_02-board.png" alt="KiCad regulator PCB layer preview" width="300"></a></td>
+</tr>
+</table>
 
-## Documentation approach
+*Previews are generated from the actual supplied design files and Gerber layers.*
 
-Each project will aim to include:
+## Tools and workflow
 
-- A clear problem statement and design objective
-- Preview images or drawings
-- Editable source files and relevant exports
-- Tools used, design notes, and revision history
-- Test results and limitations, where available
+- **Altium Designer:** schematic capture, PCB layout, local component libraries, and fabrication documentation.
+- **KiCad:** schematic-to-board practice projects, component placement, routing, and Gerber exports.
+- **AutoCAD Electrical:** electrical drawing organization, PLC output wiring, and control-panel drafting.
+- **Documentation:** project overviews, editable files, visual previews, and recorded design-check status.
+
+## Project notes
+
+Practice and tutorial-based work is identified in the project documentation, with the original learning reference credited. Saved design-check reports describe the recorded design state; hardware fabrication, bench testing, and commissioning are not claimed.
 
 ---
 
