@@ -29,7 +29,7 @@ This portfolio brings together my PCB design and electrical drafting projects us
 <table>
 <tr>
 <td align="center" width="50%"><strong>USB-C Charger / Boost PCB</strong><br><a href="https://github.com/ehasunchy/altium-pcb-projects/blob/main/USBC_Charger.md"><img src="https://raw.githubusercontent.com/ehasunchy/altium-pcb-projects/main/USBC_Charger-board.png" alt="USB-C Gerber layer preview" width="420"></a></td>
-<td align="center" width="50%"><strong>KiCad 3.3V Regulator PCB</strong><br><a href="https://github.com/ehasunchy/kicad-pcb-projects/blob/main/KiCad_Job_Practice_02.md"><img src="https://raw.githubusercontent.com/ehasunchy/kicad-pcb-projects/main/KiCad_Job_Practice_02-board.png" alt="KiCad regulator PCB layer preview" width="300"></a></td>
+<td align="center" width="50%"><strong>KiCad 3.3V Regulator PCB</strong><br><a href="https://github.com/ehasunchy/kicad-pcb-projects/blob/main/5V_to_3V3_LDO_Board.md"><img src="https://raw.githubusercontent.com/ehasunchy/kicad-pcb-projects/main/5V_to_3V3_LDO_Board-board.png" alt="KiCad regulator PCB layer preview" width="300"></a></td>
 </tr>
 </table>
 
