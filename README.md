@@ -21,7 +21,7 @@ This portfolio brings together my PCB design and electrical drafting projects us
 | Collection | Projects and deliverables |
 | :--- | :--- |
 | [**Altium PCB Projects**](https://github.com/ehasunchy/altium-pcb-projects) | Four designs: 5V LED indicator, 5V-to-3.3V LDO, tutorial LED board, and USB-C charger/boost converter. Sources, local libraries, and available manufacturing outputs. |
-| [**KiCad PCB Projects**](https://github.com/ehasunchy/kicad-pcb-projects) | Two practice designs: LED indicator and AMS1117-3.3 regulator. Editable projects, schematic/board previews, and supplied Gerber/drill exports. |
+| [**KiCad PCB Projects**](https://github.com/ehasunchy/kicad-pcb-projects) | Three practice designs: LED indicator, AMS1117-3.3 regulator, and [NE555 astable LED blinker](https://github.com/ehasunchy/kicad-pcb-projects/blob/main/555_Timer_LED_Blinker.md). Editable projects, schematic/board previews, and supplied Gerber/drill exports. |
 | [**AutoCAD WTP Control Panel**](https://github.com/ehasunchy/autocad-wtp-control-panel) | Practice drawings for system architecture, incoming power distribution, and CPU digital-output/relay wiring, with supporting symbols. |
 
 ## Design previews
